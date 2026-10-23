@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>ProSet Updates</title></channel></rss>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>ProSet Updates</title>
+    <item>
+      <title>ProSet 0.7.3</title>
+      <pubDate>Fri, 23 Oct 2026 11:26:02 GMT</pubDate>
+      <sparkle:version>0.7.3</sparkle:version>
+      <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/a125245/ProSet-releases/releases/download/v0.7.3/ProSet-0.7.3-arm64.zip" length="675218780" type="application/octet-stream" sparkle:edSignature="7zqzlUHFjm//kMBLMtuPfyNfX5c0lytDvY97w+T1PKKSXvrRY1yhMnCxLpgtb4zkeYdNoO/5AEi6AqsW+tB1Cw=="/>
+    </item>
+  </channel>
+</rss>
