@@ -3,12 +3,12 @@
   <channel>
     <title>ProSet Updates</title>
     <item>
-      <title>ProSet 0.7.6</title>
-      <pubDate>Fri, 23 Oct 2026 15:08:22 GMT</pubDate>
-      <sparkle:version>0.7.6</sparkle:version>
-      <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
+      <title>ProSet 0.7.7</title>
+      <pubDate>Fri, 23 Oct 2026 15:54:35 GMT</pubDate>
+      <sparkle:version>0.7.7</sparkle:version>
+      <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <enclosure url="https://github.com/a125245/ProSet-releases/releases/download/v0.7.6/ProSet-0.7.6-arm64.zip" length="675250865" type="application/octet-stream" sparkle:edSignature="Oo5xQIXM+3GnHYGOB4y4zpQtrwAnMkvIpSJ65m9aff2moE+uos0lt3tYeZI0YYBCWQVsU+ctfeHI0Oc/PRbHCw=="/>
+      <enclosure url="https://github.com/a125245/ProSet-releases/releases/download/v0.7.7/ProSet-0.7.7-arm64.zip" length="675251021" type="application/octet-stream" sparkle:edSignature="yzejkcDSe/jad2cyQ+kRGL8mw8y/WeVqo81yDdsiKmBIl1AVjrZKSJ2mQ/vNvUZcIZwZ+TkXxZj2TUALPsCvAw=="/>
     </item>
   </channel>
 </rss>
